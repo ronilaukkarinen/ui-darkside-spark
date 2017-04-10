@@ -1,10 +1,12 @@
 # Darkside (Spark inspired fork)
 **An dark sidebar theme for [Nylas N1](https://nylas.com/n1). Created originally by [Jamie Wilson](http://jamiewilson.io)**, modified by Roni Laukkarinen.
 
+![Screenshot](https://dl.dropboxusercontent.com/u/18447700/Screen%20Shot%202017-04-10%20at%2011.39.19.png "Screenshot")
+
 ![Screenshot](https://dl.dropboxusercontent.com/u/18447700/nylas-n1.png "Screenshot")
 
 ## Activation
-Download this repo as zip, unzip it, go to `Nylas N1 > Install theme...`` in the menu bar.
+Download this repo as zip, unzip it, go to `Nylas N1 > Install theme...` in the menu bar.
 
 #### Customizations and forks
 
